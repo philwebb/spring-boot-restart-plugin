@@ -26,7 +26,7 @@
          point="org.eclipse.ui.bindings">
       <key
             commandId="org.springframework.ide.eclipse.boot.restart.commands.restart"
-            contextId="org.eclipse.ui.contexts.window"
+            contextId="org.eclipse.debug.ui.console"
             schemeId="org.eclipse.ui.defaultAcceleratorConfiguration"
             sequence="M1+R"/>
    </extension>
