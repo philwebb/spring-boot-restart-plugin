@@ -4,5 +4,11 @@ Bundle-SymbolicName: org.springframework.ide.eclipse.boot.restart;singleton:=tru
 Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: %Bundle-Vendor
 Bundle-Name: %Bundle-Name
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.ui.console,
+ org.eclipse.debug.ui;bundle-version="3.9.0",
+ org.eclipse.ui.workbench.texteditor;bundle-version="3.9.0"
 Bundle-RequiredExecutionEnvironment: J2SE-1.5,
  JavaSE-1.6
+Bundle-Activator: org.springframework.ide.eclipse.boot.restart.RestartPlugin
