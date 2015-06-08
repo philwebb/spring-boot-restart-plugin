@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Fragment-Host: org.springframework.ide.eclipse.boot.restart
+Bundle-ManifestVersion: 2
+Bundle-Name: %Bundle-Name
+Bundle-SymbolicName: org.springframework.ide.eclipse.boot.restart.tests
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-Vendor: %Bundle-Vendor

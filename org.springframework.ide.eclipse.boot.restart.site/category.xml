@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description>
+      Maven Integration for Eclipse (maven-eclipse-plugin support)
+   </description>
+   <category-def name="springbootrestart" label="Spring Boot Restart"/>
+</site>
