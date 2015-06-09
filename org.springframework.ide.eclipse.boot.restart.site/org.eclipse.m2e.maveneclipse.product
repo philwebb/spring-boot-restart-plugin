@@ -10,7 +10,7 @@
    </plugins>
 
    <features>
-      <feature id="org.eclipse.m2e.maveneclipse.feature"/>
+      <feature id="org.springframework.ide.eclipse.boot.restart.feature"/>
    </features>
 
 

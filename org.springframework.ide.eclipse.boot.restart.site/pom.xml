@@ -12,6 +12,7 @@
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>org.springframework.ide.eclipse.boot.restart.site</artifactId>
+	<packaging>eclipse-repository</packaging>
 	<name>Spring Boot Restart Site</name>
 	<build>
 		<plugins>

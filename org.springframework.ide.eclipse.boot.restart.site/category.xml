@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
    <description>
-      Maven Integration for Eclipse (maven-eclipse-plugin support)
+      Spring Boot Rstart Trigger
    </description>
+   <feature id="org.springframework.ide.eclipse.boot.restart.feature">
+      <category name="springbootrestart"/>
+   </feature>
    <category-def name="springbootrestart" label="Spring Boot Restart"/>
 </site>
